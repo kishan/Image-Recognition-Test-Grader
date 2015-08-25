@@ -4,13 +4,6 @@ Term project for my 15-112 (Fundamentals of Programming and Computer Science) cl
 
 This program automates the process of manually grading multiple choice tests by allowing you to grade tests simply by holding them up in front of your laptop's webcam. 
 
-**The program provides the teacher with two primary tools:**
-
-1. Scan tests and save them as images
-2. Scan tests and grade them using computer's webcam
-
-This project is written in Python using OpenCV (Open Computer Vision) and Tkinter (Python's standard GUI).
-
 ##Prerequisites
 - Python 2.7
 - OpenCV 2.4.11
