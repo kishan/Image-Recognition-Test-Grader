@@ -1,0 +1,28 @@
+Updates from TP1:
+
+From TP1: 
+-finds circles on page (not very accurate- detected a lot of stray and random circles)
+
+ORGANIZE CIRCLES
+-organized bubbles into rows by y-coordinate
+-organized bubbles in each row by x-coordinate
+
+FILLED BUBBLE FINDER
+-Created whitePixelDensity function (creates box around circle, counts number of white pixels, and then divides by area).
+-used function to compare density of bubbles in each row
+-loop through bubbles in each row to find which bubble has highest density (filled in)
+-once finding filled bubble, question number is added to dictionary as key and letter of bubble as value.
+
+IMPROVED ALGORITH
+-get rid of stray bubbles which have two or less bubbles in row
+-if extra bubbles to left of bubbles ignore them
+-reports answer as * if no bubble filled
+
+INTEGRATION
+-in TP1 I had the transformation function, scanner function, and circle finding function in all different files seperated
+-for TP2 I interlinked all the files so now they all work together (input image file and answers are printed (and added to dictionary)).
+
+
+DEMO
+-works for a couple of hand drawn bubble sheets
+-works great for printed out template bubble sheet filled out in any way

@@ -1,0 +1,61 @@
+timesheet.txt
+
+Total Time: 66 hours
+
+1 hr	Setup OpenCV and Test Demos
+
+2 hr	Research on WebApps w/ Django
+
+2 hr	Learning Basics of OpenCV
+
+2 hr	Testing out different OpenCV Demos
+
+3 hr	Looking through OpenCV test demos (Hough Circles, Contours, WebCam, Thresholding)
+
+1 hr	Researching how to create MC Scanner using OpenCV
+
+1 hr	Create 4 Point Transformation
+
+1 hr	Install OpenCv on laptop
+
+1 hr	Thresholding Image to Black and White
+
+1 hr	Detecting Circles on sample Bubble Sheet
+
+2 hr	Combining Thresholding with Circle Detection + SAT answer sheet sample
+
+1 hr	Work on scan.py (detecting contour of page in image)
+
+1 hr	get scan.py to work (find 4 points using contour and apply 4 point transformation)
+
+1 hr	Set up webcam so snapshot taken and saved as file when spacebar is pressed
+
+1 hr	Fixing up code on transform.py (four_point_transform function)
+
+2 hr	Research about grouping circles and comparing densities
+
+2 hr	Sorted circles by row
+
+1 hr	Complete sorting circles by row and column
+
+3 hr	Work on recognizing which bubble is filled
+
+3 hr	Complete recognizing which bubble is filled
+
+7 hr	Optimize bubble recognition
+
+3 hr	Make scanner work for set printed template
+
+2 hr	Get Webcam to capture picture and allow user to retake picture if necessary
+
+4 hr	Create UI - display choices with highlighting of right/wrong + display grade
+
+2 hr	Style Code and create functions for files
+
+4 hr	Allow webcam to take grade multiples tests at same time --> try to set up multiple score reports
+
+5 hr	Add adittional features to make program more robust --> alerts user when 20 questions not detected
+
+5 hr	Implemented start menu and created scan document option
+
+2 hr	Finalize code --> add comments and get rid off extra code
