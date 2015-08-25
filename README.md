@@ -1,6 +1,6 @@
 # Image Recognition Test Grader
 
-Term project for my 15-112 (Fundamentals of Programming and Computer Science) class.
+Term project for 15-112 (Fundamentals of Programming and Computer Science) class.
 
 This program automates the process of manually grading multiple choice tests by allowing you to grade tests simply by holding them up in front of your laptop's webcam. 
 
